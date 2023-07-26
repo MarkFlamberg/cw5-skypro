@@ -1,0 +1,1 @@
+-- Весь код sql в db_manager и utils
